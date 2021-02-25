@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:59,HThanhsharemediaplus12.php?id=256
+#EXTVLCOPT:network-caching=1000
+http://14.234.147.161:8888/HThanhsharemediaplus12.php?id=256
